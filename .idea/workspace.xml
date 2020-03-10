@@ -52,7 +52,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Product/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="-288">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -73,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="371" />
     <option name="y" value="303" />
     <option name="width" value="1400" />
@@ -176,12 +176,12 @@
       <option name="presentableId" value="Default" />
       <updated>1583735126579</updated>
       <workItem from="1583735191559" duration="11559000" />
-      <workItem from="1583814119626" duration="267000" />
+      <workItem from="1583814119626" duration="713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11826000" />
+    <option name="totallyTimeSpent" value="12272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -307,7 +307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Product/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="-288">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
